@@ -1,67 +1,41 @@
-# 👋 Hi, I'm Shira Levi
+# Hi there, I'm Shira Levi! 👋
 
-### Full Stack Developer • Software Practical Engineer
+### 🚀 Full Stack Developer | AI & Automation Enthusiast
 
-📞 050-4106328  
-📧 [levishirach@gmail.com](mailto:levishirach@gmail.com)  
-🔗 GitHub: [https://github.com/shiralevi](https://github.com/shiralevi)
+[cite_start]I am a creative Full Stack Developer with a passion for problem-solving and a "think outside the box" mentality[cite: 4]. [cite_start]Sharp, thorough, and possess a broad perspective[cite: 4].
 
----
-
-## 🚀 About Me
-
-Full Stack Developer with a creative mindset and a "think outside the box" approach to problem-solving. Sharp, thorough, and highly motivated, I specialize in building complex, scalable systems using cutting-edge technologies.
-
-As a **Software Development Intern at iAngels** (Tel Aviv), I contributed to a VC investment platform managing **$400M** in assets for over **20,000** verified investors.
-* **Institutional Systems:** Enhanced user management systems, investor profiles, and secure document handling.
-* **Compliance & Security:** Implemented **KYC/NDA** agreement logic and secure identity verification interfaces.
-* **Quality Assurance:** Developed **Unit Tests** and built mobile-optimized interfaces to ensure platform stability.
+- [cite_start]🎓 **Software Engineering** graduate (certified by MAHAT)[cite: 24].
+- [cite_start]💼 **Software Development Intern** at **iAngels** (VC Investment platform).
+- [cite_start]🏆 Honors graduate (Avg. 94) [cite: 24] [cite_start]and **Ultra Code (KamaTech)** program alumna[cite: 25].
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
-### Languages, Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,dotnet,cs,cpp,java,mysql,mongodb,html,css,tailwind,git,docker,linux,windows,maven,svg" />
-
-> **Core Expertise:** Python (Pandas, NumPy, Matplotlib, OpenCV, Pillow), JavaScript, TypeScript, C++, Java, C#, SQL.  
-> **Frontend:** React, Redux, Angular (v19), Tailwind CSS, MUI.  
-> **Backend:** Node.js, .NET Core, Entity Framework.  
-> **AI & Automation:** CrewAI, LangChain, RAG techniques, OpenAI API.
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **AI & Automation** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-orange?style=flat) |
 
 ---
 
-## 📂 Featured Projects
+### 🏗️ Featured Projects
 
-### 🥗 **[Recipe Management Hub](https://github.com/shiralevi/recipe-app-react-node)**
-A sophisticated full-stack system for recipe management. Built with a dynamic **React** frontend and a robust **Node.js** backend. Features a high-end, designed user interface for seamless recipe interaction.
-
-### 🎮 **[Gaming Ecosystem](https://github.com/shiralevi/GamesProject)**
-An interactive platform featuring various games. Includes:
-* **React + Node.js:** Advanced game state management and user progress tracking.
-* **Pure JavaScript:** Logic-based games focusing on DOM manipulation and asynchronous programming.
-
-### 🛴 **[Vehicle Rental System](https://github.com/shiralevi/VehicleProject)**
-A comprehensive backend management system for scooter and vehicle rentals built with **C# .NET Core**. Includes user management, rental tracking, and automated billing logic.
-
-### 📊 **Sales Analysis Engine (Python)**
-Advanced data analysis tool using **Python**. Processes annual CSV data, performs cleaning with **Pandas**, and generates trend visualizations with **Matplotlib**.
+* [cite_start]**Recipe App (React + Node.js)** - Full-stack system for recipe management[cite: 14].
+* [cite_start]**Scooter Rental System (.NET)** - Backend system for rental management, users, and billing[cite: 15].
+* [cite_start]**Sales Analysis (Python)** - Data processing and visualization using Pandas & Matplotlib[cite: 16, 17].
 
 ---
 
-## 🎓 Education & Background
-
-* **Software Engineering (MAHAT):** Practical Engineering degree (2023-2025).
-* **KamaTech - Ultra Code:** Graduate of the prestigious high-tech training program.
-* **Full Matriculation (בגרות מלאה):** Graduate with honors from Netanya, **Average: 94**.
-* **Languages:** Hebrew (Native), English (High Level - 5 Units).
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiralevi&show_icons=true&theme=flat&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shiralevi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiralevi&layout=compact&theme=radical" />
 </p>
 
 ---
-<p align="right">*(Last updated: 2026)*</p>
+
+### 📫 Connect with me:
+* [cite_start]**Email**: levishirach@gmail.com [cite: 2]
+* [cite_start]**Phone**: 050-4106328 [cite: 2]
