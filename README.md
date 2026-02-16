@@ -10,32 +10,53 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with a creative mindset and a "think outside the box" approach to problem-solving. [cite_start]Sharp, thorough, and highly motivated, I specialize in building complex, scalable systems using cutting-edge technologies. [cite: 4, 5]
+I am a Full Stack Developer with a creative mindset and a "think outside the box" approach. I am sharp, thorough, and possess a broad perspective on software architecture. I love challenges and I am a fast self-learner, capable of integrating into teams and working independently on complex projects.
 
-[cite_start]As a **Software Development Intern at iAngels**, I contributed to a VC investment platform managing **$400M** in assets. [cite: 18] I specialized in:
-* [cite_start]Developing and improving institutional user management systems, investor profiles, and secure document handling. [cite: 19]
-* [cite_start]Implementing **KYC/NDA** agreement logic and secure identity verification interfaces. [cite: 20, 21]
-* [cite_start]Building robust **Unit Tests** and mobile-optimized interfaces to ensure platform stability for over **20,000 verified investors**. [cite: 21, 22]
+My background includes a **Software Engineering degree (MAHAT)** and intensive training in the **KamaTech Ultra Code** program. I have practical experience from my internship at **iAngels**, where I worked on high-scale systems managing hundreds of millions of dollars.
 
-[cite_start]Graduate of the **MAHAT** Software Engineering program and the prestigious **KamaTech Ultra Code** program. [cite: 24, 25] [cite_start]I have extensive experience in high-level programming and AI automation. [cite: 8, 11]
+---
 
-[cite_start]Creative problem-solver, fast self-learner, and a dedicated team player with hands-on experience in high-stakes development environments. [cite: 5]
+## 💼 Professional Experience
+
+### **Software Development Intern | iAngels (Tel Aviv)**
+*Internship at a VC Investment platform managing over **$400M** in assets.*
+* Developing and improving institutional user management systems and investor profiles.
+* Implementing **KYC/NDA** agreement logic and secure document handling.
+* Building mobile-optimized interfaces and robust **Unit Tests** for a platform serving **20,000+** investors.
+
+---
+
+## 📂 Featured Projects
+
+### 🎮 **JavaScript & React Gaming Hub**
+* **JS Games:** A collection of interactive logic games built with pure JavaScript, focusing on DOM manipulation and asynchronous programming.
+* **React + Node.js Gaming Platform:** A more advanced system combining a dynamic React frontend with a Node.js backend to manage game states and user progress.
+
+### 🥗 **Recipe Management System (React + Node.js)**
+Full-stack application for creating and managing recipes, featuring a smooth user experience and a secure backend API.
+
+### 🛴 **Scooter Rental System (.NET Core)**
+A comprehensive backend system for managing fleet rentals, user registrations, and automated billing processes.
+
+### 📊 **Sales Analysis Engine (Python)**
+Processing annual CSV data to identify trends and generate visualizations using **Pandas** and **Matplotlib**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages, Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,java,dotnet,cs,cpp,c,html,css,tailwind,mongodb,mysql,git,docker,linux,nextjs" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,html,css,tailwind,mongodb,mysql,java,dotnet,cs,cpp,python,git,linux,svg,md,maven" />
 
 ---
 
-## 📂 Featured Projects
+## 🎓 Education & Background
 
-* [cite_start]**Recipe Hub (React + Node.js):** A full-stack recipe management system featuring a dynamic React UI and a robust Node.js backend. [cite: 10, 14]
-* [cite_start]**Smart Scooter Rental (.NET Core):** A comprehensive backend system for rental tracking, user management, and automated billing. [cite: 10, 15]
-* [cite_start]**Sales Insight Engine (Python):** Advanced data processing and trend analysis using Pandas, NumPy, and Matplotlib. [cite: 8, 16, 17]
+* **Full Matriculation (בגרות מלאה):** Graduate with honors, average grade: **94**.
+* **Software Engineering (MAHAT):** Practical Engineering degree (2023-2025).
+* **Ultra Code (KamaTech):** Advanced High-Tech training for specialists.
+* **AI & Automation:** Expertise in CrewAI, LangChain, RAG, and OpenAI API.
+* **Languages:** Hebrew (Native), English (High level - 5 Units).
 
 ---
 
