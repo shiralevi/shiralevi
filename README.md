@@ -1,113 +1,128 @@
-✨ Shir Levi
-💻 Full Stack Developer | React • .NET • Node.js • Python
-<p align="center"> <b>Creative problem solver • Clean architecture lover • AI enthusiast</b> </p>
-🌈 About Me
+<div align="center">
 
-Hi 👋 I'm Shir, a passionate Full Stack Developer who loves building modern, scalable and user-friendly applications.
+# 🌟 שירה לוי | Full Stack Developer
 
-I combine:
+### בונה מערכות מקצה לקצה עם חשיבה יצירתית, דיוק טכני ואהבה אמיתית לפתרון בעיות
 
-🧠 Strong computer science foundation
+[![Email](https://img.shields.io/badge/Email-levishirach%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levishirach@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-050--410632-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:050410632)
+[![GitHub](https://img.shields.io/badge/GitHub-shiralevi-181717?style=for-the-badge&logo=github)](https://github.com/shiralevi)
 
-🚀 Practical full-stack experience
+</div>
 
-🎯 Clean and structured coding style
+---
 
-🤝 Great teamwork & independent work skills
+## 🙋‍♀️ קצת עליי
 
-I’m looking for a challenging development position where I can grow and contribute to meaningful products.
+אני מפתחת **Full Stack** עם ניסיון בבניית מערכות מורכבות, למידה עצמית מהירה ועבודה עצמאית ובצוות.  
+אוהבת לקחת אתגר עסקי ולהפוך אותו לפתרון טכנולוגי ברור, יעיל ונעים למשתמש.
 
-🚀 Tech Stack
-👩‍💻 Languages
+- 🔍 חשיבה אנליטית וראייה מערכתית רחבה
+- ⚡ למידה מהירה של טכנולוגיות חדשות
+- 🤝 תקשורת מעולה ועבודה צוותית חזקה
+- 🎯 מכוונת תוצאות, איכות קוד ושיפור מתמיד
 
-Python JavaScript TypeScript C# C++ Java SQL
+---
 
-🎨 Frontend
+## 🧠 סטאק טכנולוגי
 
-React Angular Redux HTML5 CSS3 Tailwind CSS MUI
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-⚙ Backend
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-6A1B9A?style=flat-square&logo=nuget&logoColor=white)
 
-Node.js .NET Core Entity Framework
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-🗄 Databases
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-MongoDB MySQL SQL Server
+### AI & Automation
+- CrewAI
+- LangChain
+- RAG Techniques
+- OpenAI API
+- Vibe Coding
 
-🤖 AI & Automation
+---
 
-OpenAI API LangChain RAG CrewAI
+## 🚀 פרויקטים נבחרים
 
-🌟 Featured Projects
-🛴 Vehicle Rental System
+### 🍽️ Recipes Platform (React + Node.js)
+מערכת לניהול והצגת מתכונים עם צד לקוח וצד שרת:
+- הוספה, ניהול וחיפוש מתכונים
+- ממשק משתמש נקי ונוח
+- ארכיטקטורה מלאה של Full Stack
 
-🔗 Repository: VehicleProject
+### 🛴 קורקינטים להשכרה (C# / .NET)
+מערכת ניהול השכרה הכוללת:
+- ניהול משתמשים והשכרות
+- מעקב חיובים ותשלומים
+- לוגיקה עסקית ושכבת שרת יציבה
 
-Full backend management system for vehicle rentals.
-Built with .NET Core & C#
+### 📊 ניתוח מכירות בפייתון
+פרויקט Data Analysis על נתוני מכירות שנתיים:
+- ניקוי ועיבוד נתונים מקבצי CSV
+- ניתוח מגמות והפקת תובנות
+- ויזואליזציה באמצעות Pandas ו-Matplotlib
 
-✔ User management
-✔ Rental tracking system
-✔ Billing & payments logic
-✔ Clean layered architecture
-✔ Entity Framework integration
+---
 
-Focused on scalable backend design and structured business logic.
+## 💼 ניסיון תעסוקתי
 
-🎮 Games Website
+### IANGELS | תל אביב  
+**מתמחה בפיתוח תוכנה (Practicum)**
 
-🔗 Repository: GamesProject
+- שיפור מערכות ניהול משתמשים בפלטפורמת השקעות VC
+- עבודה על תהליכי KYC, העלאת מסמכים וניהול NDA
+- פיתוח Unit Tests ובניית ממשקים מותאמים לאימות זהות מאובטח
+- תרומה לפלטפורמה יציבה שתומכת ביותר מ-20,000 משקיעים מאומתים
 
-Interactive games website with dynamic UI.
+---
 
-✔ Modern frontend interface
-✔ Clean component structure
-✔ Responsive design
-✔ Interactive experience
+## 🎓 השכלה
 
-Emphasis on UI structure and frontend architecture.
+- **2023–2025** — לימודי הנדסאי תוכנה (מה״ט)
+- **בוגרת תוכנית Ultra Code** מטעם KamaTech
+- **2019–2023** — תיכון בית יעקב, נתניה (בגרות מלאה בהצטיינות, ממוצע 94)
 
-🍲 Recipe App (React + Node.js)
+---
 
-🔗 Repository: recipe-app-react-node
+## 🌍 שפות
 
-Advanced full-stack recipe platform.
+- 🇮🇱 עברית — שפת אם
+- 🇺🇸 אנגלית — רמה גבוהה מאוד (5 יח״ל, דיבור/כתיבה/קריאה)
 
-✔ Beautiful React UI
-✔ Node.js backend API
-✔ Add / Edit / Manage recipes
-✔ Organized REST structure
-✔ Full-stack integration
+---
 
-Complete end-to-end application development.
+## 📫 בואו נתחבר
 
-💼 Professional Experience
-💻 Software Development Intern – iAngels
+- GitHub: [github.com/shiralevi](https://github.com/shiralevi)
+- Email: [levishirach@gmail.com](mailto:levishirach@gmail.com)
+- Phone: 050-410632
 
-VC investment platform managing $400M+ assets.
+<div align="center">
 
-✔ Improved institutional user systems
-✔ Developed unit tests
-✔ Built secure identity verification interfaces
-✔ Worked with investor profiles, KYC & NDA management
-✔ Contributed to system stability (20,000+ verified investors)
+### תודה שביקרת בפרופיל שלי 💜
 
-🎓 Education
-
-🎓 Software Engineering Practical Degree (Mah”at Certified) – 2023–2025
-
-🏆 Full High School Diploma with Excellence (Average 94)
-5 Units English
-
-Graduate of Ultra Code Program by KamaTech
-
-🌍 Languages
-
-Hebrew – Native
-English – High Level
-
-📫 Contact
-
-📧 levishirach@gmail.com
-
-📱 050-4106328
+</div>
