@@ -1,70 +1,113 @@
-# 👋 Hi, I'm Shira Levi
+✨ Shir Levi
+💻 Full Stack Developer | React • .NET • Node.js • Python
+<p align="center"> <b>Creative problem solver • Clean architecture lover • AI enthusiast</b> </p>
+🌈 About Me
 
-### Full Stack Developer • Software Practical Engineer
+Hi 👋 I'm Shir, a passionate Full Stack Developer who loves building modern, scalable and user-friendly applications.
 
-📞 050-4106328  
-📧 [levishirach@gmail.com](mailto:levishirach@gmail.com)  
-🔗 GitHub: [https://github.com/shiralevi](https://github.com/shiralevi)
+I combine:
 
----
+🧠 Strong computer science foundation
 
-## 🚀 About Me
+🚀 Practical full-stack experience
 
-I am a Full Stack Developer with a creative mindset and a "think outside the box" approach. I am sharp, thorough, and possess a broad perspective on software architecture. I love challenges and I am a fast self-learner, capable of integrating into teams and working independently on complex projects.
+🎯 Clean and structured coding style
 
-My background includes a **Software Engineering degree (MAHAT)** and intensive training in the **KamaTech Ultra Code** program. I have practical experience from my internship at **iAngels**, where I worked on high-scale systems managing hundreds of millions of dollars.
+🤝 Great teamwork & independent work skills
 
----
+I’m looking for a challenging development position where I can grow and contribute to meaningful products.
 
-## 💼 Professional Experience
+🚀 Tech Stack
+👩‍💻 Languages
 
-### **Software Development Intern | iAngels (Tel Aviv)**
-*Internship at a VC Investment platform managing over **$400M** in assets.*
-* Developing and improving institutional user management systems and investor profiles.
-* Implementing **KYC/NDA** agreement logic and secure document handling.
-* Building mobile-optimized interfaces and robust **Unit Tests** for a platform serving **20,000+** investors.
+Python JavaScript TypeScript C# C++ Java SQL
 
----
+🎨 Frontend
 
-## 📂 Featured Projects
+React Angular Redux HTML5 CSS3 Tailwind CSS MUI
 
-### 🎮 **JavaScript & React Gaming Hub**
-* **JS Games:** A collection of interactive logic games built with pure JavaScript, focusing on DOM manipulation and asynchronous programming.
-* **React + Node.js Gaming Platform:** A more advanced system combining a dynamic React frontend with a Node.js backend to manage game states and user progress.
+⚙ Backend
 
-### 🥗 **Recipe Management System (React + Node.js)**
-Full-stack application for creating and managing recipes, featuring a smooth user experience and a secure backend API.
+Node.js .NET Core Entity Framework
 
-### 🛴 **Scooter Rental System (.NET Core)**
-A comprehensive backend system for managing fleet rentals, user registrations, and automated billing processes.
+🗄 Databases
 
-### 📊 **Sales Analysis Engine (Python)**
-Processing annual CSV data to identify trends and generate visualizations using **Pandas** and **Matplotlib**.
+MongoDB MySQL SQL Server
 
----
+🤖 AI & Automation
 
-## 🛠️ Tech Stack
+OpenAI API LangChain RAG CrewAI
 
-### Languages, Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,html,css,tailwind,mongodb,mysql,java,dotnet,cs,cpp,python,git,linux,svg,md,maven" />
+🌟 Featured Projects
+🛴 Vehicle Rental System
 
----
+🔗 Repository: VehicleProject
 
-## 🎓 Education & Background
+Full backend management system for vehicle rentals.
+Built with .NET Core & C#
 
-* **Full Matriculation (בגרות מלאה):** Graduate with honors, average grade: **94**.
-* **Software Engineering (MAHAT):** Practical Engineering degree (2023-2025).
-* **Ultra Code (KamaTech):** Advanced High-Tech training for specialists.
-* **AI & Automation:** Expertise in CrewAI, LangChain, RAG, and OpenAI API.
-* **Languages:** Hebrew (Native), English (High level - 5 Units).
+✔ User management
+✔ Rental tracking system
+✔ Billing & payments logic
+✔ Clean layered architecture
+✔ Entity Framework integration
 
----
+Focused on scalable backend design and structured business logic.
 
-## 📊 GitHub Stats
+🎮 Games Website
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiralevi&show_icons=true&theme=flat&count_private=true" alt="Shira's Stats" />
-</p>
+🔗 Repository: GamesProject
 
----
-<p align="right">*(Last updated: 2026)*</p>
+Interactive games website with dynamic UI.
+
+✔ Modern frontend interface
+✔ Clean component structure
+✔ Responsive design
+✔ Interactive experience
+
+Emphasis on UI structure and frontend architecture.
+
+🍲 Recipe App (React + Node.js)
+
+🔗 Repository: recipe-app-react-node
+
+Advanced full-stack recipe platform.
+
+✔ Beautiful React UI
+✔ Node.js backend API
+✔ Add / Edit / Manage recipes
+✔ Organized REST structure
+✔ Full-stack integration
+
+Complete end-to-end application development.
+
+💼 Professional Experience
+💻 Software Development Intern – iAngels
+
+VC investment platform managing $400M+ assets.
+
+✔ Improved institutional user systems
+✔ Developed unit tests
+✔ Built secure identity verification interfaces
+✔ Worked with investor profiles, KYC & NDA management
+✔ Contributed to system stability (20,000+ verified investors)
+
+🎓 Education
+
+🎓 Software Engineering Practical Degree (Mah”at Certified) – 2023–2025
+
+🏆 Full High School Diploma with Excellence (Average 94)
+5 Units English
+
+Graduate of Ultra Code Program by KamaTech
+
+🌍 Languages
+
+Hebrew – Native
+English – High Level
+
+📫 Contact
+
+📧 levishirach@gmail.com
+
+📱 050-4106328
